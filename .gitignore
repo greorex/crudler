@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+
+.pytest_cache/
+
+build/
+dist/
+*.spec
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# private
+.env
+
+# databases
+*.db

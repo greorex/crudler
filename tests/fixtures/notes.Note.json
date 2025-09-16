@@ -1,0 +1,11 @@
+{
+  "path": "notes",
+  "item": {
+    "title": "Test Note",
+    "content": "This is the test note"
+  },
+  "update": {
+    "content": "This is updated test note"
+  },
+  "id": null
+}

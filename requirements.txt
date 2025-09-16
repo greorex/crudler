@@ -1,0 +1,8 @@
+aiosqlite
+fastapi
+httpx
+pytest
+python-dotenv
+sqlalchemy
+sqlmodel
+uvicorn

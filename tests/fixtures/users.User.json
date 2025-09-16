@@ -1,0 +1,12 @@
+{
+    "path": "users",
+    "item": {
+        "nickname": "Test",
+        "name": "User name",
+        "lastname": "User lastname"
+    },
+    "update": {
+        "lastname": "This is updated lastname"
+    },
+    "id": null
+}
